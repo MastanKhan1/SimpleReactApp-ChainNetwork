@@ -1,0 +1,42 @@
+.register{
+    box-shadow: 5px 5px 5px 2px #cccece;
+    margin: 3% 20%;
+    padding: 4% 0;
+    border-radius: 10px;
+}
+
+.register input, .register button{
+    display: block;
+    text-align: center;
+    margin: 1.2% 30%;
+    padding: 0.3rem;
+    width: 30%;
+    border-radius: 10px;
+    border: transparent;
+    box-shadow: 2px 2px 2px 2px  #cccece;
+    color: rgb(156, 156, 156);
+}
+
+
+
+
+.submit-btn{
+    background-color: #2596be;
+    box-shadow: none;
+    color: #eeeee4;
+}
+
+.submit-btn:active{
+    background-color: #eeeee4;
+    color: #2596be;
+}
+
+.submit-btn:hover{
+    box-shadow: 2px 2px 2px 2px rgb(172, 172, 172);
+}
+
+.reg-heading{
+    position: relative;
+    left: 10%;
+    color: #2596be;
+}

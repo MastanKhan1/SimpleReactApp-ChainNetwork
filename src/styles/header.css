@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #2596be;
+    padding: 2% 7% 1%;
+    align-items: center;
+}
+
+.brand-name{
+    font-size: 2rem;
+}
+
+.header-list ul li{
+    list-style: none;
+    display: inline;
+    margin: auto 1rem;
+}
+
+.header-list ul a{
+    text-decoration: none;
+}
+
+.header-list ul a:active{
+    position: relative;
+    bottom: 5px;
+}
+
+
+ 

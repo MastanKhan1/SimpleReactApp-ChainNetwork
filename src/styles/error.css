@@ -1,0 +1,11 @@
+.error{
+    width: 25%;
+    box-shadow: 2px 3px 5px 3px rgb(166, 166, 166);
+    padding: 3%;
+    border-radius: 10px;
+    margin: 0.5rem 35% 2rem;
+}
+
+.error h1{
+    color: #2596be;
+}
